@@ -106,7 +106,7 @@ torchvision==0.15.1
 tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1708363098266/work
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1707598593068/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
-triton==2.0.0
+triton==2.3.0
 tslearn @ file:///home/conda/feedstock_root/build_artifacts/tslearn_1707071435206/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1712329955671/work
 tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
